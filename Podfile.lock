@@ -1,0 +1,16 @@
+PODS:
+  - ImageScrollView (1.8)
+
+DEPENDENCIES:
+  - ImageScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  ImageScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ImageScrollView: 82912273486297285682bdb2a806742f0d39940c
+
+PODFILE CHECKSUM: 8e836f7f52da4ac0f2f533b10582a69d9a3de51b
+
+COCOAPODS: 1.6.1
